@@ -1,0 +1,23 @@
+{
+  "short_name": "EZgotchi",
+  "name": "Tamagotchi TamaTown Tama-Go code generator",
+  "display": "standalone",
+  "icons": [
+    {
+      "src": "icon-96.png",
+      "type": "image/png",
+      "sizes": "96x96"
+    },
+    {
+      "src": "icon-144.png",
+      "type": "image/png",
+      "sizes": "144x144"
+    },
+    {
+      "src": "icon-192.png",
+      "type": "image/png",
+      "sizes": "192x192"
+    }
+  ],
+  "start_url": "./"
+}
